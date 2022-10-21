@@ -1,17 +1,16 @@
-
 {
-"name": "ufa-fun",
-"theme": "ufa fun",
-"version": "3.7.7",
-"description": "ufa fun สมัครเว็บพนันเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
-"keywords": [
-"ufa fun",
-"ufa fun เครดิตฟรี",
-"ufa fun ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/ufa-fun",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "ufa-fun",
+  "theme": "ufa fun",
+  "version": "3.8.0",
+  "description": "ufa fun สมัครเว็บพนันเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "ufa fun",
+    "ufa fun เครดิตฟรี",
+    "ufa fun ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/ufa-fun",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
